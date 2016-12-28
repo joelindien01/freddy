@@ -11,9 +11,8 @@ public class Main {
 	// write your code here
     }
 
-    private int[] createNreference(int nbreDeReference){
-        int[] toReturn = new int[nbreDeReference];
-        return new int[nbreDeReference];
+    private int[] getReferences(int nbreDeReference){
+       return new int[nbreDeReference];
     }
 
     private void removeComposantFromStock(int composantToRemoveReference){
